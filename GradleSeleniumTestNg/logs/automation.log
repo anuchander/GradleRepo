@@ -1,0 +1,3 @@
+11:41:21.106 [main] ERROR com.qa.tests.GoogleTest - DB connection failed
+11:41:21.109 [main] INFO  com.qa.tests.GoogleTest - Click successful
+11:41:21.109 [main] FATAL com.qa.tests.GoogleTest - This is fatal message!
